@@ -1,6 +1,8 @@
 # Chatbot
 ## Gemini-api 기반 RAG(Retrieval-Augmented Generation) 모델
 
+## 산출물(PDF)
+- [RAG CHATBOT 포트폴리오](https://drive.google.com/file/d/1R6wJkRiTWQFqkvmr1xEABoRiIOWd15rW/view?usp=drive_link)
 
 ## 프로젝트 개요
 
